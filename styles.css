@@ -328,3 +328,13 @@ footer {
 footer p {
     padding: 20px;
 }
+
+.whatsapp {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}
+
+.whatsapp img {
+    max-width: 70px;
+}
